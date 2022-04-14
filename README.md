@@ -49,6 +49,6 @@ Temporary description, first the output:
 
 That feel when you got all the tidyverse packages to cooperate with you
 without needing any help and you achieved a decent RMSE despite bombing on a
-some countries, most notably Nigeria.
+some countries, most notably Nigeria:
 
 ![the Techpriest from "Armouring of a Space Marine](exultant-techpriest.png)
