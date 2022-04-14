@@ -93,3 +93,5 @@ test_rows <- test_rows %>%
   add_column(test_predictions) %>%
   rename(prediction=test_predictions) %>%
   select(country, life_expectancy, prediction)
+
+print(test_rows, n=nrow(test_rows))
