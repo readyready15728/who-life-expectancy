@@ -1,7 +1,7 @@
 # WHO Life Expectancy
 ## SVM-based prediction of life expectancy from 2014 WHO data
 
-Temporary description:
+Temporary description, first the output:
 
 ```
 [1] "Printing out test predictions:"
@@ -46,3 +46,9 @@ Temporary description:
 36 Venezuela (Bolivarian Republic of)                            73.9       75.1
 37 Zambia                                                        61.1       58.8
 ```
+
+That feel when you got all the tidyverse packages to cooperate with you
+without needing any help and you achieved a decent RMSE despite bombing on a
+some countries, most notably Nigeria.
+
+![the Techpriest from "Armouring of a Space Marine](exultant-techpriest.png)
